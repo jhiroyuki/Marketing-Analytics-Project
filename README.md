@@ -16,13 +16,12 @@ O projeto é composto pelas seguintes etapas:
 
 2. **Análise Exploratória (EDA)**: Aqui, exploraremos os dados, identificaremos tendências e obteremos insights sobre o comportamento dos clientes em campanhas anteriores.
 
-3. **Modelos Preditivos** (a ser feito): Utilizaremos técnicas de aprendizado de máquina para prever o sucesso das campanhas. Mediremos o desempenho com métricas e validação cruzada e compreenderemos os fatores influentes nos resultados dos modelos.
+3. **Modelos Preditivos**: Utilizaremos técnicas de aprendizado de máquina para prever o sucesso das campanhas. Mediremos o desempenho com métricas e validação cruzada e compreenderemos os fatores influentes nos resultados dos modelos.
 
-4. **Recomendações**: Com base nos insights obtidos, orientaremos estratégias de marketing futuras.
 
 ## Origem dos Dados
 
-Os dados utilizados neste projeto foram obtidos a partir da plataforma [Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data). Além disso, informações adicionais sobre o problema foram obtidas de um repositório no [GitHub]https://github.com/nailson/ifood-data-business-analyst-test(), o que nos permite realizar uma análise mais completa e aprofundada.
+Os dados utilizados neste projeto foram obtidos a partir da plataforma [Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data). Além disso, informações adicionais sobre o problema foram obtidas de um repositório no [GitHub](https://github.com/nailson/ifood-data-business-analyst-test), o que nos permite realizar uma análise mais completa e aprofundada.
 
 # Contato
 
